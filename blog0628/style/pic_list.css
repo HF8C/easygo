@@ -1,0 +1,65 @@
+#right{
+    width: 65%;
+    height:450px;
+    background: url(../images/bg2.jpg);
+    border-radius: 6px;
+    
+}
+#right h2{
+    font-size: 2em;
+    width: 74%;
+    color: #fff;
+    margin-top: 30px;
+    margin-left: 10%;
+    border-bottom: 1px dashed #333;
+}
+#right p{
+    clear: both;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+}
+#right p a{
+    color:#0066ff;
+}
+#right p a:hover{
+    color: #f30;
+}
+#right img{
+    width: 80px;
+    height: 60px;
+    padding: 2px;
+    border-radius: 10px;
+}
+#right ul{
+   margin-left:20px;
+   float: left;
+  
+  
+}
+#right ul li{
+   float: left;
+   text-align: center;
+   margin-top: 5px;
+   margin-right: 2%;
+}
+#right ul li a:hover{
+    color: #fff;
+}
+#right ul li a{
+    color: #333;
+    font-size: 12px;
+}
+#right ul li span{
+    display: block;
+}
+#right .my_img{
+    width: 75%;
+    height: auto;
+    margin-left: 14%;
+}
+#right .img2{
+    width: 13%;
+    height: 13%;
+    background: none;
+}

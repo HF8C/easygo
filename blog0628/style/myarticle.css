@@ -1,0 +1,26 @@
+#right{
+    width: 65%;
+    height:310px;
+    background: url(../images/bg2.jpg);
+    border-radius: 6px;
+
+
+}
+
+#right h2{
+    color: #fff;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 10px;
+}
+#right h4{
+    color: #eee;
+    text-align: center;
+}
+#right p{
+    text-align: center;
+    color: #eee;
+    font-size: 1.5em;
+    margin-left: 5px;
+    margin-right: 5px;
+}

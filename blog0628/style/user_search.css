@@ -1,0 +1,96 @@
+#right{
+    width: 65%;
+    height:310px;
+    background: url(../images/bg2.jpg);
+    border-radius: 6px;
+    
+}
+#right h2{
+    color:#fff;
+    font-size: 2em;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    font-weight: bold;
+    margin-left: 120px;
+}
+
+#right p
+{
+    text-align: center;
+    margin-top: 10px;
+}
+#right p a{
+    color:#f30;
+}
+#right p a:hover{
+    color:#ff00cc;
+}
+table{
+    background: #fff;
+}
+#right span{
+    margin-left: 7%;
+}
+.search_text{
+    border: none;
+    border-radius: 2px;
+}
+.txt{
+    border: none;
+    width: 30%;
+    height: 25px;
+}
+.btn{
+    border: none;
+    width: 10%;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 12%;
+    background: #3399ff;
+}
+.line{
+   width: 98%;
+   border:1px #f30 solid;
+   margin: 15px  auto;
+   
+}
+#blog_list{
+    max-width:700px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 2%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin: 0 auto;
+}
+#blog_list img{
+    width: 13%;
+    height: 13%;
+   
+}
+#blog_list p{
+    height: 35px;
+    line-height: 35px;
+    color: #333;
+    margin-left: 2%;
+}
+#blog_list a{
+    color: #06c;
+    margin-left: 1%;;
+    margin-right: 1%;
+}
+#blog_list a:hover{
+    color: #f30;
+}
+#blog_list table{
+    border-top: 1px #333 solid;
+    border-left: 1px #333 solid;
+    width: 98%;
+    margin: 5px auto;
+}
+#blog_list td{
+    border-bottom: 1px #333 solid;
+    border-right: 1px #333 solid;
+    text-align: center;
+    line-height: 30px;
+}

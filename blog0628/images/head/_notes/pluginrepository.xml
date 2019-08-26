@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pluginRepository>
+    <plugins>
+           <plugin dll="QyGameClient.exe" download_engine="0" download_url="http://dl.static.iqiyi.com/product/QYAppPlugin/QyGameClient/QyGameClient.7z" is_service="1" name="QyGameClient" runner="main" version="5.3.3.385" />
+    </plugins>
+</pluginRepository>

@@ -1,0 +1,55 @@
+
+#right{
+    width: 65%;
+    height: 310px;
+    background: url(../images/bg2.jpg);
+    border-radius: 6px;
+
+}
+#right h2{
+    font-size: 2em;
+    color:#fff;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    font-weight: bold;
+    text-indent: 1em;
+}
+.txt{
+    width: 29%;
+    height: 25px;
+    border: none;
+  
+}
+.text_con{
+    border: none;
+    border-radius: 5px;
+    width: 35%;
+    height: 150px;
+    margin-left: 10%;  
+   margin-top: -5px;
+}
+.btn{
+  width: 10%;
+  height: 26px;
+ margin-left: 12%;
+ margin-top: 10px;
+ border: none;
+ background: #3399ff;;
+ border-radius: 5px;
+ cursor: pointer;
+}
+.btn2{
+  width: 10%;
+  height: 26px;
+ margin-left: 5%;
+ margin-top: 10px;
+ border: none;
+ background: #3399ff;
+ border-radius: 5px;
+ color: #fff;
+  cursor: pointer;
+}
+#right p{
+    margin-left: 3%;
+    font-size: 14px;
+}

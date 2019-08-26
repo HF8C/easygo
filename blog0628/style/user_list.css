@@ -1,0 +1,71 @@
+#right{
+    width: 65%;
+    height:310px;
+    background: url(../images/bg2.jpg);
+    border-radius: 6px;
+    
+}
+#right h2{
+    width: 98%;
+    font-size: 1.9em;
+    color:#fff;
+    border-bottom: 1px dashed #333;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    font-weight: bold;
+}
+#right p
+{
+    text-align: center;
+    margin-top: 10px;
+}
+#right p a{
+    color:#f30;
+}
+#right p a:hover{
+    color:#ff00cc;
+}
+table{
+    background: #fff;
+}
+#blog_list{
+    max-width:700px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 2%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin: 0 auto;
+}
+#blog_list img{
+    width: 13%;
+    height: 13%;
+   
+}
+
+#blog_list p{
+    height: 35px;
+    line-height: 35px;
+    color: #333;
+    margin-left: 2%;
+}
+#blog_list a{
+    color: #06c;
+    margin-left: 1%;;
+    margin-right: 1%;
+}
+#blog_list a:hover{
+    color: #f30;
+}
+#blog_list table{
+    border-top: 1px #333 solid;
+    border-left: 1px #333 solid;
+    width: 98%;
+    margin: 5px auto;
+}
+#blog_list td{
+    border-bottom: 1px #333 solid;
+    border-right: 1px #333 solid;
+    text-align: center;
+    line-height: 30px;
+}

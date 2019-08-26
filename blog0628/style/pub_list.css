@@ -1,0 +1,51 @@
+#right{
+    width: 65%;
+    height:310px;
+    background: url(../images/bg2.jpg);
+    border-radius: 6px;
+
+
+}
+#right  img{
+    width: 15px;
+    height:15px;
+}
+#right h2{
+    font-size: 1.9em;
+    color:#fff;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    font-weight: bold;
+   border-bottom: 1px #333 dashed;
+    width: 95%;
+}
+
+#right p
+{
+    font-size: 14px; 
+    text-align: center;
+    margin-top: 10px;
+}
+#right p a{
+    color:#f30;
+}
+#right p a:hover{
+    color:#333;
+}
+#right ul {
+    margin-left: 6%;
+    margin-top: 10px;
+}
+#right ul li{
+   height: 23px;
+   line-height: 23px;
+   
+   
+}
+#right ul li span a{
+   color: #333;
+   margin-left: 3%;
+}
+#right ul li  a{
+    color:#f30;
+}

@@ -1,0 +1,54 @@
+#right{
+    width: 65%;
+    height:430px;
+    background: url(../images/bg2.jpg);
+    border-radius: 6px;
+    
+}
+#right h2{
+    font-size: 2em;
+    width: 90%;
+    color: #fff;
+    border-bottom: 1px dashed #333;
+}
+#right p{
+    margin-left: 13%;
+    line-height: 23px;
+    margin-top: 10px;
+}
+#right .text{
+    width: 30%;
+    height: 25px;
+    border-radius: 5px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+   
+    
+}
+#right .text:hover{
+    border: 1px solid #33ff33;
+}
+#right .fri_select{
+    border: none;
+    border-radius: 2px;
+    width: 9%;
+}
+#right .btn{
+    width: 10%;
+    border: 0px;
+    border-radius: 3px;
+    background:#3399ff;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 18%;
+   margin-top: 12px;
+}
+#right .btn2{
+    width: 10%;
+    border: 0px;
+    border-radius: 3px;
+    background:#3399ff;
+    color: #fff;
+    cursor: pointer;
+   margin-top: 12px;
+}
